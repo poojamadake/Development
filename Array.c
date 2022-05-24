@@ -9,14 +9,6 @@ int main()
 
     int Data[4] = {10,20,30,40};
 
-
-    /*int Data[4];
-    Data[0] = 10;
-    Data[1] = 20;
-    Data[2] = 30;
-    Data[2] = 30;
-    Data[3] = 40;*/
-
     printf("Value of no1 is %d\n",no1);
     printf("Address of no1 is %d\n",&no1);
     printf("First element of array %d\n",Data[0]);
