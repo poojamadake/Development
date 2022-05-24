@@ -21,21 +21,6 @@ int main()
     return 0;
 }
 
-// Format Specifiers
-/*
-
-%d      Signed integer in decimal format
-%c      Character
-%f      Float data
-%u      Unsigned integer
-%x      Hexadecimal data
-%o      Octal data
-%p      Pointer representation
-%lf     double
-%Lf     Long double
-%s      String
-
-*/
 
 
 
